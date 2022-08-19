@@ -27,7 +27,7 @@ function showHideTable() {
         tbodyAddress.innerHTML = "";
     }
 }
-/* Dispara os métodos na inicializacao */
+/* Dispara os métodos ao carregar o js */
 showHideTable();
 renderAddresses();
 
